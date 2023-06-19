@@ -13,4 +13,8 @@ class Bank extends Model
         'bank',
         'balance'
     ];
+
+    public function addBank($bank, $balance){
+        
+    }
 }
